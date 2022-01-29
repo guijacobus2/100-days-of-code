@@ -12,4 +12,10 @@ Thoughts: Feels good to be back at coding.
 
 Link to work: [Abletech Solution](https://github.com/guijacobus2/Abletech-Solution)
 
-### 
+### Day 2: January 29, Saturday
+
+Today's Progress: Developed a simple copy of Snake Game using Flutter for Android and iOS.
+
+Thoughts: Easy project to test some basic skills such as handling touch screen commands and updating the UI in real-time. Design is not so great, but good enough to play the game.
+
+Link to work: [Snake Game](https://github.com/guijacobus2/Snake-Game)
