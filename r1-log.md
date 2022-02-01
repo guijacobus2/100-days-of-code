@@ -35,10 +35,13 @@ Today's Progress: Developed the Register Screen, the Login Screen, and the Reset
 Thoughts: Firebase is a great noSQL database to work along with Flutter apps. Easy setup for the app and easy to set up the Register and Sign In functions.
 
 Screenshots:
-<img width="379" alt="Screen Shot 2022-02-01 at 10 25 27 AM" src="https://user-images.githubusercontent.com/39783071/151954479-6bd23bc6-2b64-4930-a817-aa2b5fe11bb8.png">
+<br>
 <img width="356" alt="Screen Shot 2022-02-01 at 11 40 34 PM" src="https://user-images.githubusercontent.com/39783071/151954497-b6b9c06c-8b86-4519-b663-487331af4d40.png">
+<br>
 <img width="373" alt="Screen Shot 2022-02-01 at 10 25 39 AM" src="https://user-images.githubusercontent.com/39783071/151954541-0f4c46f4-e775-49df-b820-bda511acb333.png">
+<br>
 <img width="363" alt="Screen Shot 2022-02-01 at 10 25 48 AM" src="https://user-images.githubusercontent.com/39783071/151954565-b105e6fa-953b-40f2-8c5b-bd8c165e800c.png">
+<br>
 <img width="359" alt="Screen Shot 2022-02-01 at 11 40 14 PM" src="https://user-images.githubusercontent.com/39783071/151954665-325cdbfb-b72c-4e86-8e79-893240adfca0.png">
 
 
