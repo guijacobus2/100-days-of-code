@@ -41,5 +41,15 @@ Screenshots:
 <img width="150" alt="Screen Shot 2022-02-01 at 10 25 39 AM" src="https://user-images.githubusercontent.com/39783071/151954541-0f4c46f4-e775-49df-b820-bda511acb333.png">
 
 
+### Day 6 & 7: February 2, Wednesday & 3, Thursday
 
+Today's Progress: Built the profile setup screen. With the use of Firebase and Google Maps API, I developed a function to get the address and convert it to geohash coordinates. Also, made a function to upload and store user profile image on Firebase.
+
+Thoughts: It was a bit difficult to understand how to convert an address to geohash so I could query through all the users by location, but a good exercise. Also, storing user data with Firebase is super easy.
+
+Screenshots:
+
+<img width="150" alt="Screen Shot 2022-02-03 at 10 14 38 PM" src="https://user-images.githubusercontent.com/39783071/152317125-d960a34d-8c38-4190-9dc0-dc4524cd5ed4.png">
+<img width="150" alt="Screen Shot 2022-02-03 at 10 15 42 PM" src="https://user-images.githubusercontent.com/39783071/152317194-1b9018b5-c501-4efe-9cc9-4ff6f4073bbb.png">
+<img width="150" alt="Screen Shot 2022-02-03 at 10 15 54 PM" src="https://user-images.githubusercontent.com/39783071/152317239-c77d36b8-f62b-4077-a621-73d3a1799b85.png">
 
