@@ -53,3 +53,9 @@ Screenshots:
 <img width="150" alt="Screen Shot 2022-02-03 at 10 15 42 PM" src="https://user-images.githubusercontent.com/39783071/152317194-1b9018b5-c501-4efe-9cc9-4ff6f4073bbb.png">
 <img width="150" alt="Screen Shot 2022-02-03 at 10 15 54 PM" src="https://user-images.githubusercontent.com/39783071/152317239-c77d36b8-f62b-4077-a621-73d3a1799b85.png">
 
+
+### Day 8 & 9: February 4, Friday & 5, Saturday
+
+Today's Progress: haven’t done much this 2 days. Currently having a bug with the iOS version of the app. Android version works without bugs, but iOS is crashing, something related to dependencies compatibility and A new Firebase version for iOS.
+
+Thoughts: Started with a bug on both Android and iOS, but the Android version was easier to fix, just updated some dependencies, but for iOS there’s a new Firebase package which is causing problems for the app, still trying to fix it.
