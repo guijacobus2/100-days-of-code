@@ -59,3 +59,18 @@ Screenshots:
 Today's Progress: haven’t done much this 2 days. Currently having a bug with the iOS version of the app. Android version works without bugs, but iOS is crashing, something related to dependencies compatibility and A new Firebase version for iOS.
 
 Thoughts: Started with a bug on both Android and iOS, but the Android version was easier to fix, just updated some dependencies, but for iOS there’s a new Firebase package which is causing problems for the app, still trying to fix it.
+
+
+### Day 10: February 8, Tuesday
+
+Today's Progress: Built a simple Multi-Select Widget using the package "Multi Select Flutter", which has a few features like FormField validator.
+
+Thoughts: Flutter has awesome packages which are easy to use, and it amazes me what people can do with such power.
+
+Screenshots:
+
+<img width="150" alt="Screen Shot 2022-02-09 at 9 42 16 AM" src="https://user-images.githubusercontent.com/39783071/153073293-08467986-bd36-4713-bf85-22e301c36b89.png">
+<img width="150" alt="Screen Shot 2022-02-09 at 9 42 28 AM" src="https://user-images.githubusercontent.com/39783071/153073462-3318fc7b-e25f-42f7-85c8-7592dc0ac7b6.png">
+<img width="150" alt="Screen Shot 2022-02-09 at 9 42 53 AM" src="https://user-images.githubusercontent.com/39783071/153073514-235906ae-d6eb-4a5e-ad6c-af60ea48e51c.png">
+
+
