@@ -73,4 +73,10 @@ Screenshots:
 <img width="150" alt="Screen Shot 2022-02-09 at 9 42 28 AM" src="https://user-images.githubusercontent.com/39783071/153073462-3318fc7b-e25f-42f7-85c8-7592dc0ac7b6.png">
 <img width="150" alt="Screen Shot 2022-02-09 at 9 42 53 AM" src="https://user-images.githubusercontent.com/39783071/153073514-235906ae-d6eb-4a5e-ad6c-af60ea48e51c.png">
 
+### Day 11: February 17, Thursday
 
+Today's progress: Haven't posted lately, but I started this new native iOS boootcamp with SwiftUI, and developed this begginer dice roller app.
+
+Thoughts: Working with native iOS is completely different from Flutter, but for me I am having a great experience with it, and XCode is pretty intuitive.
+
+Link to work: [Dice Roller](https://github.com/guijacobus2/iOS_Bootcamp/tree/main/Dicee-iOS13)
